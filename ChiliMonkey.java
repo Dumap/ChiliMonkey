@@ -36,7 +36,6 @@ class ChiliMonkey extends JFrame{
 	private ImageIcon teeth = new ImageIcon("ClackyTeeth2.gif");
 	private ImageIcon monkey = new ImageIcon("MOHNkee.gif");
 	private ImageIcon chili = new ImageIcon("CHILI.GIF");
-	private ImageIcon duck = new ImageIcon("Quack.gif");
 	private ImageIcon bug = new ImageIcon("Bug.gif");
 	private ImageIcon alien = new ImageIcon("Alien.gif");
 	private ImageIcon mis = new ImageIcon("missileXYZ.gif");
